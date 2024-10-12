@@ -1,0 +1,23 @@
+{
+  "name": "daytime",
+  "version": "1.0.0",
+  "description": "count your day time",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forlorin/DayTime.git"
+  },
+  "author": "forlorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Forlorin/DayTime/issues"
+  },
+  "homepage": "https://github.com/Forlorin/DayTime#readme",
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}
